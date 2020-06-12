@@ -2,7 +2,12 @@
 
 Template for zabbix (min version 3)
 
-simple use, open your zabbix monitor server, import this template and create a host, set SAI IP address, asign this temmplate to host
+simple use:
+- open your zabbix monitor server
+- import this template
+- and create a host
+- set SAI IP address
+- asign this temmplate to host
 
 this template give you all data from your sai with network card Netman204  
 
