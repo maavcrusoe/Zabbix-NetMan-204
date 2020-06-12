@@ -1,4 +1,4 @@
-# Zabbix-NetMan-204
+# Template Zabbix NetMan-204 Riello UPS
 
 Template for zabbix (min version 3)
 
